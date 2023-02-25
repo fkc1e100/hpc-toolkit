@@ -66,7 +66,7 @@ the `frontend` directory as follows:
 ```bash
 git clone https://github.com/GoogleCloudPlatform/hpc-toolkit.git
 cd hpc-toolkit
-cd community/frontend/ofe
+cd community/front-end/ofe
 ```
 
 All further deployment actions must be performed from this directory.
